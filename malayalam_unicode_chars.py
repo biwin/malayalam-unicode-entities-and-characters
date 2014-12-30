@@ -1,8 +1,8 @@
-__author__ 		= 'Biwin John'
+__author__ 	= 'Biwin John'
 __copyright__	= 'Copyright 2014, Biwin John'
-__twitter__		= '@xkaterboi'
-__web__ 		= 'http://biwin.github.io'
-__github__ 		= 'biwin'
+__twitter__	= '@xkaterboi'
+__web__ 	= 'http://biwin.github.io'
+__github__ 	= 'biwin'
 __license__ 	= 'MIT'
 __version__ 	= '1.0.0'
 
